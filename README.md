@@ -1,6 +1,10 @@
-<div align="start">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=600&lines=Hi%2C+I'm+Nabil+Al+Sayed+%F0%9F%91%8B;Software+Engineer+%7C+Full-Stack+%7C+AI+%7C+IoT;Let%E2%80%99s+build+purposeful+things+%F0%9F%92%BB"/>
-</div>
+<h2 align="start">Hey there! 👋</h2>
+
+<p align="start">
+  I'm <strong>Nabil Al Sayed</strong>, a Software Engineering student at <strong>CHALMERS | GU</strong>.<br />
+  I'm passionate about building scalable, user-focused applications and intelligent systems using full-stack, embedded, and AI technologies.<br />
+  Always learning, always curious..
+</p>
 
 
 ### GitHub Stats
