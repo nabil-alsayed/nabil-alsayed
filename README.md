@@ -1,54 +1,62 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=435&lines=Hi+I'm+Nabil+Al+Sayed+%F0%9F%91%8B;Full-Stack+%7C+Systems+%7C+IoT+%7C+AI;Always+Building+%7C+Always+Learning"/>
+<div align="start">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=600&lines=Hi%2C+I'm+Nabil+Al+Sayed+%F0%9F%91%8B;Software+Engineer+%7C+Full-Stack+%7C+AI+%7C+IoT;Let%E2%80%99s+build+purposeful+things+%F0%9F%92%BB"/>
 </div>
 
+
+### GitHub Stats
+
+<p align="start">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nabil-alsayed&theme=tokyonight" />
+</p>
+
+
+
+### Languages & Tools
+
+<p align="start">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,vue,next,nodejs,java,cpp,cs,docker,postgres,firebase,mongodb,git,figma,tailwind,arduino&perline=17" />
+</p>
+
+
+
+### Currently Exploring
+
+- Backend with **C#**
+- AI and Retrieval-Augmented Generation (RAG)
+- System Security and Scalable Architecture
+- Real-Time Systems + IoT Integrations
+
+
+
+### Projects I'm Proud Of
+
+|  Project |  Description |
+|-----------|----------------|
+| [`Deebate.me`](https://github.com/nabil-alsayed/deebate) | AI-supported debate platform using OpenAI, enabling structured and interactive discussions. |
+| [`DentiQ`](https://github.com/nabil-alsayed/dentiq) | Distributed dental clinic system using microservices, gateway architecture, and Docker. |
+| [`IntelliBreeze`](https://github.com/nabil-alsayed/intellibreeze) | IoT-based fan control system with MQTT + React Native mobile control. |
+
 ---
 
-### 🧠 About Me
+### Reach Me
 
-```ts
-const Nabil = {
-  code: ["JavaScript", "TypeScript", "C++", "C#", "Java"],
-  tools: ["React", "Node.js", "React Native", "Docker", "MQTT", "MongoDB", "PostgreSQL"],
-  interests: ["AI-powered apps", "IoT systems", "Microservices", "System Architecture"],
-  currentlyLearning: ["C# backend", "Embedded AI", "AI-driven system design"],
-  location: "Gothenburg, Sweden",
-  funFact: "I built IntelliBreeze to cool rooms before I walk in."
-};
-```
-
----
-
-### 🚀 Projects & Highlights
-
-| Project | Description |
-|--------|-------------|
-| [**Drivz.se**](https://drivz.se) | AI-powered platform for driving schools — analyze mistakes, optimize lessons. |
-| [**Deebate.me**](https://github.com/nabil-alsayed/deebate) | Structured debate platform with OpenAI integration & real-time feedback. |
-| [**DentiQ**](https://github.com/nabil-alsayed/dentiq) | Scalable microservices-based dental clinic platform with MQTT & API Gateway. |
-| [**IntelliBreeze**](https://github.com/nabil-alsayed/intellibreeze) | IoT cooling system with React Native + MQTT + sensors. |
-| [**Bankea**](https://github.com/nabil-alsayed/bankea) | Java-based CLI banking app with role management and transactions. |
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nabil-alsayed&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-  <img src="https://github-readme-stats.vercel.app/api?username=nabil-alsayed&show_icons=true&theme=react&hide_border=true" />
+<p align="start">
+  <a href="https://github.com/nabil-alsayed" >
+    <img src="https://skillicons.dev/icons?i=github" height="35"/>
+  </a>
+  <a href="mailto:nabilsa@student.chalmers.se">
+    <img src="https://skillicons.dev/icons?i=gmail" height="35"/>
+  </a>
+  <a href="https://www.linkedin.com/in/nabil-al-sayed-503b85206/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="35"/>
+  </a>
+  <a href="https://www.discord.com/invite/tqf9vyMa/">
+    <img src="https://skillicons.dev/icons?i=discord" height="35"/>
+  </a>
 </p>
 
 ---
 
-### ✨ Let's Connect
-
-- 🌐 [LinkedIn](https://www.linkedin.com/in/nabil-al-sayed-503b85206/)
-- ✉️ nabilsa@student.chalmers.se
-
----
-
-> "From idea to execution — I turn real-world challenges into smart software solutions."
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2e8b57,100:1abc9c&height=120&section=footer"/>
+<p align="start">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
